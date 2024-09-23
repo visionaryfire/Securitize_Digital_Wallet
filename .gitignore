@@ -1,0 +1,10 @@
+.next
+.yalc
+node_modules
+
+yarn-error.log*
+
+.vscode/settings.json
+
+.env*
+.npmrc
